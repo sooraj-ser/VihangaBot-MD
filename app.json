@@ -1,8 +1,8 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "🦋 ⃝⃪ ꪶᴄʜͥ͢ʀɪsͣᴛᷟ͢ʏꫂsᴇ͢ʀ🦋⃝⃪⭒",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/vihangayt0/VihangaBot-MD",
-  "logo": "hhttps://i.ibb.co/THTK67m/Vihanga-MD.png",
+  "logo": "https://i.imgur.com/qNAmBzn.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
