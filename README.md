@@ -1,9 +1,9 @@
-# VIHANGA-BOT-MD
+# 𝙲𝙷𝚁𝙸𝚂𝚃𝚈-𝙱𝙾𝚃-𝙼𝙳
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+CHRISTY+MD+WA+BOT.;CREATED+BY+CHRISTY+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -13,19 +13,19 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/qNAmBzn.jpeg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Christy Ser" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By Christy Ser>| © | Reserved  </br> 
 
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
@@ -40,7 +40,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Christy Ser`](https://github.com/vihangayt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
